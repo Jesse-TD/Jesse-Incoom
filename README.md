@@ -28,7 +28,7 @@ I am a Junior in Computer Science at UTD, diving deeper into machine-learning te
 
 Here’s a snapshot of some of my favorite projects. Each project showcases a different facet of my skill set, from data preprocessing to real-time data analysis:
 
-- **[predicting_auto_claims](https://github.com/Jess-TD/predicting_auto_claims)**: A group project using multiple models to predict claim amounts for Allstate.
+- **[predicting_auto_claims](https://github.com/AnushaAbdulla/predicting_auto_claims/tree/Allstate-Project)**: A group project using multiple models to predict claim amounts for Allstate.
 - **[predict_race_from_census_data](https://github.com/AnushaAbdulla/predict_race_from_census_data)**: A Machine Learning project using RandomForest to predict the race of                                                                                                                     people based on US Census data.
 - **[Two-Note](https://github.com/AnushaAbdulla/Two-Note)**: A collaborative, interactive notebook designed to enhance productivity.
 
