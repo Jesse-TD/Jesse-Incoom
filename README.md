@@ -30,7 +30,7 @@ Here’s a snapshot of some of my favorite projects. Each project showcases a di
 
 - **[predicting_auto_claims](https://github.com/AnushaAbdulla/predicting_auto_claims/tree/Allstate-Project)**: A group project using multiple models to predict claim amounts for Allstate.
 - **[World_Happiness_Prediction](https://github.com/Jesse-TD/ML_Prediction_Project)**: A Machine Learning project using RandomForest to predict the happiness index of the world using 2018 world data.
-- **[Flight Planner](https://github.com/AnushaAbdulla/Two-Note)**: A flight planning project that uses DFS for backtracking.
+- **[Flight Planner](https://github.com/Jesse-TD/DFS-Flight-Project)**: A flight planning project that uses DFS for backtracking.
 
 Explore my GitHub for the full project collection!
 
