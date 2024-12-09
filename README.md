@@ -64,7 +64,7 @@ I’m working toward a career in data and machine learning, focusing on applicat
 
 Let’s collaborate or chat about shared interests!  
 - **Email**: jesse.incoom@gmail.com
-- **LinkedIn**: [Jesse Incoom(https://www.linkedin.com/in/jesseincoom/)
+- **LinkedIn**: [Jesse Incoom](https://www.linkedin.com/in/jesseincoom/)
 - **GitHub**: [Jesse Incoom](https://github.com/Jesse-TD)
 --- 
 
