@@ -28,7 +28,7 @@ I am a Junior in Computer Science at UTD, diving deeper into machine-learning te
 
 Here’s a snapshot of some of my favorite projects. Each project showcases a different facet of my skill set, from data preprocessing to real-time data analysis:
 
-- **[predicting_auto_claims](https://github.com/ess-TD/predicting_auto_claims)**: A group project using multiple models to predict claim amounts for Allstate.
+- **[predicting_auto_claims](https://github.com/Jess-TD/predicting_auto_claims)**: A group project using multiple models to predict claim amounts for Allstate.
 - **[predict_race_from_census_data](https://github.com/AnushaAbdulla/predict_race_from_census_data)**: A Machine Learning project using RandomForest to predict the race of                                                                                                                     people based on US Census data.
 - **[Two-Note](https://github.com/AnushaAbdulla/Two-Note)**: A collaborative, interactive notebook designed to enhance productivity.
 
@@ -63,9 +63,9 @@ I’m working toward a career in data and machine learning, focusing on applicat
 ## 📬 Connect with Me
 
 Let’s collaborate or chat about shared interests!  
-- **Email**: anushaabdulla01@gmail.com
-- **LinkedIn**: [Anusha Abdulla](https://www.linkedin.com/in/AnushaAbdulla)
-- **GitHub**: [Anusha Abdulla](https://github.com/AnushaAbdulla)
+- **Email**: jesse.incoom@gmail.com
+- **LinkedIn**: [Jesse Incoom(https://www.linkedin.com/in/jesseincoom/)
+- **GitHub**: [Jesse Incoom](https://github.com/Jesse-TD)
 --- 
 
-Thanks for stopping by! Please feel free to explore, star, or reach out about anything you're looking at. 😊
+Thanks for stopping by! Please feel free to explore, star, or reach out about anything you're looking at. 
