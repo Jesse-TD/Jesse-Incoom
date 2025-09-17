@@ -1,4 +1,4 @@
-# Jesse-Incoom
+# Jes
 
 
 <!--
@@ -7,7 +7,7 @@
 
 # Welcome to My GitHub! 👋
 
-Hello! I’m Jesse Incoom, a passionate student/researcher, eager to use data science for impactful causes like housing, food and water scarcity, and medical technology. You'll find a mix of my academic projects, personal explorations, and professional growth here. 
+Hello! I’m Jes, a passionate student/researcher, eager to use data science for impactful causes like housing, food and water scarcity, and medical technology. You'll find a mix of my academic projects, personal explorations, and professional growth here. 
 
 ## 📖 Table of Contents
 - [Background](#-Background)
@@ -17,11 +17,6 @@ Hello! I’m Jesse Incoom, a passionate student/researcher, eager to use data sc
 - [Connect with Me](#-Connect-with-Me)
 
 ---
-
-## 🌟 Background
-
-I am a Junior in Computer Science at UTD, diving deeper into machine-learning techniques and real-world applications. With experience in everything from clustering algorithms to IoT malware detection, I’m on a journey to use technology to make resources more accessible and beneficial for all.
-
 ---
 
 ## 💻 Projects
@@ -62,10 +57,8 @@ I’m working toward a career in data and machine learning, focusing on applicat
 
 ## 📬 Connect with Me
 
-Let’s collaborate or chat about shared interests!  
-- **Email**: jesse.incoom@gmail.com
-- **LinkedIn**: [Jesse Incoom](https://www.linkedin.com/in/jesseincoom/)
-- **GitHub**: [Jesse Incoom](https://github.com/Jesse-TD)
+Let’s collaborate or chat about shared interests!
+- **GitHub**: [Jess](https://github.com/Jesse-TD)
 --- 
 
 Thanks for stopping by! Please feel free to explore, star, or reach out about anything you're looking at. 
